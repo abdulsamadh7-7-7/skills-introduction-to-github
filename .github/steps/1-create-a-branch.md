@@ -49,7 +49,7 @@ GitHub shows your profile README at the top of your profile page. For more infor
    - The branch will automatically switch to the one you just created.
    - The **main** branch drop-down menu will display your new branch name.
 
-6. Now that your branch is pushed to GitHub, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
+6. Now that your branch iss pushed to GitHub, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
 
 
 <details>
